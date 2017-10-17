@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="holiday-lighting-flow.lighting"
+    errors="0" failures="0" hostname="" id="" package="holiday-lighting-flow" skipped="0"
+    tests="1" time="21.64" timestamp="Tue, 17 Oct 2017 03:20:34 GMT">
+  
+    <testcase name="Holiday Lighting Flow" classname="holiday-lighting-flow.lighting" time="21.64" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

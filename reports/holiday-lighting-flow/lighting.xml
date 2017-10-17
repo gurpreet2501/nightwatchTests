@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="holiday-lighting-flow.lighting"
+    errors="1" failures="0" hostname="" id="" package="holiday-lighting-flow" skipped="0"
+    tests="1" time="0.003000" timestamp="Tue, 17 Oct 2017 03:15:29 GMT">
+  
+    <testcase name="Holiday Lighting Flow" classname="holiday-lighting-flow.lighting" time="0.003000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Holiday Lighting Flow / Lighting / Holiday Lighting Flow]:
+
+  ReferenceError: randNo is not defined
+    at Object.module.exports.Holiday Lighting Flow (c:\xampp\htdocs\nightwatch\tests\holiday-lighting-flow\lighting.js:20:72)
+    at Module.call (c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (c:\Users\Dggsjm\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at doNTCallback0 (node.js:419:9)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>
